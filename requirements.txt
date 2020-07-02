@@ -16,7 +16,6 @@ MarkupSafe==1.1.1
 matplotlib==3.2.2
 numpy==1.18.5
 pandas==1.0.5
-pprint==0.1
 pycparser==2.20
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
