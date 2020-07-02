@@ -1,0 +1,39 @@
+beautifulsoup4==4.9.1
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.9.2
+cycler==0.10.0
+decorator==4.4.2
+docker==4.2.2
+escapism==1.0.1
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+ipython-genutils==0.2.0
+Jinja2==2.11.2
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib @ file:///opt/concourse/worker/volumes/live/8bf90420-8b2f-40f2-5cf1-001960d57523/volume/matplotlib-base_1592846055555/work
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.18.5
+pandas @ file:///opt/concourse/worker/volumes/live/18a2b361-ca01-439e-799c-26ae586e114f/volume/pandas_1592841668631/work
+pycparser==2.20
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+PySocks==1.7.1
+python-dateutil==2.8.1
+python-json-logger==0.1.11
+pytz==2020.1
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+ruamel.yaml==0.16.10
+ruamel.yaml.clib==0.2.0
+semver==2.10.2
+six==1.15.0
+soupsieve==2.0.1
+toml==0.10.1
+tornado==6.0.4
+traitlets==4.3.3
+urllib3==1.25.9
+websocket-client==0.57.0
