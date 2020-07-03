@@ -2,7 +2,7 @@
 
 >A code along workshop with Flatiron School. 
 
-<center><img src='https://webfoundation.org/docs/2017/03/March-12-Letter.jpg' width='600'></img></center>
+<center><img src='static/graphic.png' width='600'></img></center>
 
 **To launch the notebook, [click here](https://mybinder.org/v2/gh/flatiron-school/intro_to_webscraping/master?filepath=%2Findex.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flatiron-school/intro_to_webscraping/master?filepath=%2Findex.ipynb)**
 
