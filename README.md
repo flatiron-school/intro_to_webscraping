@@ -6,7 +6,7 @@
 
 **To launch the notebook, [click here](https://mybinder.org/v2/gh/flatiron-school/intro_to_webscraping/master?filepath=%2Findex.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flatiron-school/intro_to_webscraping/master?filepath=%2Findex.ipynb)**
 
-The contents of this notebook were first developed by [Joél Collins](https://github.com/joelsewhere), and utilizes the [Quotes to Scrape](http://quotes.toscrape.com/) website to demonstrating basic web scraping in Python. 
+The contents of this notebook were first developed by [Joél Collins](https://github.com/joelsewhere), and utilizes the [Quotes to Scrape](http://quotes.toscrape.com/) website to demonstrate basic web scraping in Python. 
 
 ### Workshop Goals:
 1. Retreive the HTML of a webpage with the `requests` library.
