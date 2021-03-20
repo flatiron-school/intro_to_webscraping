@@ -9,7 +9,7 @@ decorator==4.4.2
 escapism==1.0.1
 idna==2.10
 ipython-genutils==0.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kiwisolver==1.2.0
 lxml==4.5.1
 MarkupSafe==1.1.1
