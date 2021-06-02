@@ -32,5 +32,5 @@ soupsieve==2.0.1
 toml==0.10.1
 tornado==6.0.4
 traitlets==4.3.3
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.57.0
